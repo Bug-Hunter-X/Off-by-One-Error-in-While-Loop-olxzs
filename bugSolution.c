@@ -1,0 +1,1 @@
+int main() {int i = 1; int j = 0; while (i <= 5) {j += i; i++;} printf("%d", j); return 0;} 
